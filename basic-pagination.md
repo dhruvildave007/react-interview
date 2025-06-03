@@ -44,5 +44,5 @@ export const users = [
 - Implement a paginated list in React.js displaying the **name** and **email** of each user.
 - Display **5 users per page**.
 - Show **Next** and **Previous** buttons to navigate pages.
-- Optionally, display the **current page number** and **total pages**.
+- Display the **current page number** and **total pages**.
 
