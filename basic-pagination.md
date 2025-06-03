@@ -1,4 +1,4 @@
-# React Pagination Task
+# React Basic Pagination Task
 
 ## Objective
 Implement a paginated list in React.js using the provided mock data.
@@ -46,18 +46,3 @@ export const users = [
 - Show **Next** and **Previous** buttons to navigate pages.
 - Optionally, display the **current page number** and **total pages**.
 
-### Requirements
-- Ensure the pagination logic works for any size of the list.
-- Even if we later change the `users` array to a larger or smaller dataset, the pagination should adapt.
-
-### Optional Advanced Tasks
-- Add a **page size selector** (e.g., 5, 10, 20) that dynamically changes the number of users per page.
-- Disable the **Previous** button when on the first page, and the **Next** button when on the last page.
-- **Bonus:** Make the pagination accessible (ARIA labels, keyboard navigation).
-
-### Code Structure
-- Use **functional React components**.
-- Maintain the **current page state** using `useState`.
-- Use the **users** data provided (do not fetch data from an API).
-
----
