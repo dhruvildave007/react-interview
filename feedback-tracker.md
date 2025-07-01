@@ -19,7 +19,7 @@ Keep the code clean and componentized:
 
 At least 2 components: FeedbackButtons and StatisticsPanel.
 
-📁 Bonus (Optional for senior candidates):
+
 Store feedback in localStorage so that it persists after page reload.
 
 Add a "Reset" button to clear all feedback.
