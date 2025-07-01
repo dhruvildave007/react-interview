@@ -13,15 +13,8 @@ Percentage of “Good” feedback
 
 A message like "No feedback yet" if no button is clicked
 
-All components must be functional components and use React hooks (useState).
 
-Keep the code clean and componentized:
-
-At least 2 components: FeedbackButtons and StatisticsPanel.
-
-
-Store feedback in localStorage so that it persists after page reload.
-
+after reload the panel should contain the data
 Add a "Reset" button to clear all feedback.
 
 Style it with basic CSS or inline styles.
